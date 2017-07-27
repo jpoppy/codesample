@@ -1,0 +1,14 @@
+target/
+logs/
+out/
+/.classpath
+/.project
+/.settings
+*.iml
+.springBeans
+.idea
+*.log*
+dependency-reduced-pom.xml
+*.properties
+*.lock
+!disconf.properties
